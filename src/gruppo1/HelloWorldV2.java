@@ -39,8 +39,7 @@ public class HelloWorldV2 {
 	}
 	
 	public static void Paolo() {
-		
-		
+		System.out.println("Ciao sono Paolo");
 	}
 	
 }
