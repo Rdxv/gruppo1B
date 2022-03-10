@@ -24,7 +24,7 @@ public class HelloWorldV2 {
 	}
 	
 	public static void Pietro() {
-		
+		System.out.println("Ciao sono Pietro Chiartano");
 		
 	}
 	
