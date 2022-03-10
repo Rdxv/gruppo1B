@@ -3,7 +3,13 @@ package gruppo1;
 public class HelloWorldV2 {
 
 	public static void main(String[] args) {
-			
+	
+		Andrea();
+		Simone();
+		Pietro();
+		Matteo();
+		Stefano();
+		Paolo();
 
 	}
 	
