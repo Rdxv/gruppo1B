@@ -19,7 +19,7 @@ public class HelloWorldV2 {
 	}
 	
 	public static void Simone() {
-		
+		System.out.println("Ciao sono Simone Oliva");
 		
 	}
 	
